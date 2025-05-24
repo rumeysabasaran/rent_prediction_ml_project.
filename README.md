@@ -26,6 +26,4 @@ Bu projede, konut kira fiyatlarını tahmin etmek amacıyla **Linear Regression*
 * MAE (Mean Absolute Error)
 * RMSE (Root Mean Squared Error)
 
----
 
-İstersen devamında görseller (örneğin grafik karşılaştırmaları), veri seti kaynağı, model çıktılarına örnekler ve nasıl çalıştırılacağı gibi bölümleri de ekleyebilirsin. Yardım istersen birlikte detaylandırabiliriz.
